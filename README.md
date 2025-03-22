@@ -1,1 +1,1 @@
-# Im-genes-IA
+# Imagenes-IA
